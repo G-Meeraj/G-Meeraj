@@ -36,7 +36,7 @@
 - Used **Regression Models** for price prediction.
 - Integrated **feature engineering** and **data preprocessing** techniques.
 
-### 🏥 [Disease Prediction using ML](https://github.com/yourusername/disease-prediction)
+### 🏥 [Health-Care-Chatbot](https://github.com/yourusername/disease-prediction)
 
 - Developed a **healthcare chatbot** powered by **Google AI Studio (Gemini API)**.
 - Integrated **ML models** to predict diseases based on symptoms.
