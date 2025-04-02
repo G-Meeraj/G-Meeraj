@@ -1,23 +1,24 @@
-# Hi there! 👋 I'm G. Meeraj
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> **Hello! I'm G. Meeraj**
 
-🚀 **Data Scientist | Machine Learning Engineer | Deep Learning Enthusiast**
+🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
 
 ---
 ## 📬 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meerajahmadgonnuru@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Meeraj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/GMeeraj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
-## 🔍 About Me
+## 🎨 About Me
 
-🔹 Passionate about **AI, Machine Learning, and Data Science**  
-🔹 Expertise in **Predictive Modeling, Deep Learning, and Data Analysis**  
-🔹 Skilled in **Cloud Computing, Big Data, and Advanced AI Solutions**  
-🔹 Committed to **solving real-world problems with data-driven insights**  
-🔹 Enthusiastic about **collaborating on innovative and impactful projects**  
+> *"Turning data into stories, AI into solutions, and ideas into reality."* ✨
+
+🎭 **Data Artist:** I craft AI-driven solutions that transform raw data into meaningful insights.  
+💡 **Innovator:** Passionate about solving real-world challenges with **Machine Learning, AI, and Deep Learning**.  
+🌍 **Explorer:** Constantly learning and experimenting with **Big Data, Cloud Computing, and Advanced AI Technologies**.  
+🤝 **Collaborator:** Excited to work on impactful projects and create the future of AI together!  
 
 ---
 ## 🛠️ Tech Stack
@@ -55,6 +56,7 @@
 ## 🚀 Let's Collaborate!
 
 I'm always open to exciting **Data Science** and **Machine Learning** projects. Feel free to reach out if you'd like to **collaborate**! 😊
+
 
 
 
