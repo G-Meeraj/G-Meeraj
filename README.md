@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, R, SQL
+- **Languages:** Python, SQL
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
 - **Databases:** MySQL, PostgreSQL, MongoDB
@@ -49,12 +49,9 @@
 ---
 
 ## 📬 Connect with Me
-
-🌐 [Portfolio Website](https://yourwebsite.com)\
-📧 [Email](mailto\:meerajahmadgonnuru@gmail.com)\
-🐦 [Twitter](https://twitter.com/yourusername)\
+📧 [Email](mailto\:your.meerajahmadgonnuru@gmail.com)\
 💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)\
-📂 [Kaggle](https://www.kaggle.com/yourusername)
+
 
 ---
 
