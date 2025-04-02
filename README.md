@@ -4,7 +4,7 @@
 
 ---
 ## 📬 Connect with Me
-📧 [Email](mailto:meerajahmadgonnuru@gmail.com)\
+📧 [Email](meerajahmadgonnuru@gmail.com)\
 💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)
 
 ---
