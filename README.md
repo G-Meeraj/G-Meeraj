@@ -10,10 +10,11 @@
 ---
 ## 🔍 About Me
 
-- Passionate about **Machine Learning, Deep Learning, and Data Science**
-- Experienced in **Data Analysis, Predictive Modeling, and AI-based applications**
-- Love solving real-world problems using data-driven solutions
-- Always eager to learn new technologies and collaborate on innovative projects
+🔹 Passionate about **AI, Machine Learning, and Data Science**  
+🔹 Expertise in **Predictive Modeling, Deep Learning, and Data Analysis**  
+🔹 Skilled in **Cloud Computing, Big Data, and Advanced AI Solutions**  
+🔹 Committed to **solving real-world problems with data-driven insights**  
+🔹 Enthusiastic about **collaborating on innovative and impactful projects**  
 
 ---
 ## 🛠️ Tech Stack
@@ -41,16 +42,11 @@
 - Designed an interactive **Flask web application** for easy access.
 
 ---
-## 📚 Latest Blog Posts
-
-✍️ [Understanding Feature Engineering in ML](https://yourblog.com/feature-engineering)  
-✍️ [How to Deploy ML Models with Flask](https://yourblog.com/deploy-flask)  
-✍️ [Data Science Roadmap for Beginners](https://yourblog.com/ds-roadmap)  
-
----
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 ---
 ## 🚀 Let's Collaborate!
