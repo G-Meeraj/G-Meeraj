@@ -49,8 +49,8 @@
 ---
 
 ## 📬 Connect with Me
-📧 [Email](mailto\:your.meerajahmadgonnuru@gmail.com)\
-💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)\
+📧 [Email](mailto:meerajahmadgonnuru@gmail.com)\
+💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)
 
 
 ---
