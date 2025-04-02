@@ -3,7 +3,11 @@
 🚀 \*\*Data Scientist | Machine Learning Engineer | Deep Learning \*\*
 
 ---
+## 📬 Connect with Me
+📧 [Email](mailto:meerajahmadgonnuru@gmail.com)\
+💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)
 
+---
 ## 🔍 About Me
 
 - Passionate about **Machine Learning, Deep Learning, and Data Science**
@@ -48,12 +52,9 @@
 
 ---
 
-## 📬 Connect with Me
-📧 [Email](mailto:meerajahmadgonnuru@gmail.com)\
-💼 [LinkedIn](https://www.linkedin.com/in/meeraj-ahmad-406ab2330/)
 
 
----
+
 
 ### ⭐ GitHub Stats
 ---
