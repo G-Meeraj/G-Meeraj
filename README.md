@@ -40,7 +40,6 @@
 - Implemented **Regression Models** for price estimation.
 - Integrated **feature engineering** and **data preprocessing** techniques.
 
-https://github.com/G-Meeraj/Health-Care-Chatbot.git
 ### 🏥 [Healthcare Chatbot](https://github.com/G-Meeraj/Health-Care-Chatbot.git)
 - Built a **healthcare chatbot** powered by **Google AI Studio (Gemini API)**.
 - Integrated **ML models** to predict diseases based on symptoms.
