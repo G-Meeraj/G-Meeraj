@@ -35,12 +35,13 @@
 ---
 ## 📌 Featured Projects
 
-### ✈️ [Flight Price Prediction](https://github.com/yourusername/flight-price-prediction)
+### ✈️ [Flight Price Prediction](https://github.com/G-Meeraj/flight-price-prediction)
 - Developed a **Flask-based web app** to predict flight ticket prices.
 - Implemented **Regression Models** for price estimation.
 - Integrated **feature engineering** and **data preprocessing** techniques.
 
-### 🏥 [Healthcare Chatbot](https://github.com/yourusername/disease-prediction)
+https://github.com/G-Meeraj/Health-Care-Chatbot.git
+### 🏥 [Healthcare Chatbot](https://github.com/G-Meeraj/Health-Care-Chatbot.git)
 - Built a **healthcare chatbot** powered by **Google AI Studio (Gemini API)**.
 - Integrated **ML models** to predict diseases based on symptoms.
 - Designed an interactive **Flask web application** for easy access.
