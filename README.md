@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Meeraj</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Meeraj" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Data Scientist & Analyst | Turning Data into Insights 💡</h3>
 <br>
 <h3>Profile Views :-</h3> 
@@ -57,4 +60,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Meeraj&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
 <br>
-<p><a href="https://github.com/G-Meeraj">Adam-pw</a></p>
+<p><a href="https://github.com/G-Meeraj">G-Meeraj</a></p>
