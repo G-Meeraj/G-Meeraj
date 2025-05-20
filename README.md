@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & Analyst | Turning Data into Insights 💡</h3>
 <br>
 <h3>Profile Views :-</h3> 
-<img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw">
+<img src="https://komarev.com/ghpvc/?username=G-Meeraj&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw">
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300px"></p>
 
@@ -10,7 +10,7 @@
   <li>🔍 Passionate about exploring patterns in data and deriving actionable business insights</li>
   <li>📊 Skilled in statistical analysis, machine learning, and data visualization</li>
   <li>🧠 Currently expanding my knowledge in AI and advanced analytics</li>
-  <li>📫 Reach me at: <strong><a href="mailto:meerajahmadgonnuru@gmail.com">adampithewan@gmail.com</a></strong></li>
+  <li>📫 Reach me at: <strong><a href="mailto:meerajahmadgonnuru@gmail.com">meerajahmadgonnuru@gmail.com</a></strong></li>
   <li>⚡ Fun fact: I enjoy storytelling with data and jazzing it up with dashboards 🎷📈</li>
 </ul>
 <br>
@@ -41,10 +41,10 @@
 <br>
 
 <h3>Statistical Data 📈</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=G-Meeraj&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw"></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adam-pw"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=G-Meeraj&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adam-pw"></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=G-Meeraj&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
 <br>
 <p><a href="https://github.com/Adam-pw">Adam-pw</a></p>
