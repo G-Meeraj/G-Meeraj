@@ -1,62 +1,50 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> **Hello! I'm G. Meeraj**
+<h1 align="center">Hi 👋, I'm Meeraj</h1>
+<h3 align="center">Data Scientist & Analyst | Turning Data into Insights 💡</h3>
+<br>
+<h3>Profile Views :-</h3> 
+<img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat" alt="adam-pw">
+<br>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300px"></p>
 
-🚀 **Data Scientist | Machine Learning Engineer | AI Enthusiast**
+<ul>
+  <li>🔍 Passionate about exploring patterns in data and deriving actionable business insights</li>
+  <li>📊 Skilled in statistical analysis, machine learning, and data visualization</li>
+  <li>🧠 Currently expanding my knowledge in AI and advanced analytics</li>
+  <li>📫 Reach me at: <strong><a href="mailto:meerajahmadgonnuru@gmail.com">adampithewan@gmail.com</a></strong></li>
+  <li>⚡ Fun fact: I enjoy storytelling with data and jazzing it up with dashboards 🎷📈</li>
+</ul>
+<br>
 
----
-## 📬 Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40"></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"></a>
+  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"></a>
+</p>
+<br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meerajahmadgonnuru@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meeraj-datascientist/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Meeraj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://meeraj-portfolio.netlify.app/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"></a>
+</p>
+<br>
 
-
----
-## 🎨 About Me
-
-> *"Turning data into stories, AI into solutions, and ideas into reality."* ✨
-
-🎭 **Data Artist:** I craft AI-driven solutions that transform raw data into meaningful insights.  
-💡 **Innovator:** Passionate about solving real-world challenges with **Machine Learning, AI, and Deep Learning**.  
-🌍 **Explorer:** Constantly learning and experimenting with **Big Data, Cloud Computing, and Advanced AI Technologies**.  
-🤝 **Collaborator:** Excited to work on impactful projects and create the future of AI together!  
-
----
-## 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-|-------------|----------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Data Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Big Data & Cloud** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) |
-| **Development & Tools** | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
----
-## 📌 Featured Projects
-
-### ✈️ [Flight Price Prediction](https://github.com/G-Meeraj/flight-price-prediction)
-- Developed a **Flask-based web app** to predict flight ticket prices.
-- Implemented **Regression Models** for price estimation.
-- Integrated **feature engineering** and **data preprocessing** techniques.
-
-### 🏥 [Healthcare Chatbot](https://github.com/G-Meeraj/Health-Care-Chatbot.git)
-- Built a **healthcare chatbot** powered by **Google AI Studio (Gemini API)**.
-- Integrated **ML models** to predict diseases based on symptoms.
-- Designed an interactive **Flask web application** for easy access.
-
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
----
-## 🚀 Let's Collaborate!
-
-- I'm always open to exciting **Data Science** and **Machine Learning** projects. Feel free to reach out if you'd like to **collaborate**! 😊
-- 🌐 Check out my full Data Science portfolio here: [meeraj-portfolio.netlify.app](https://meeraj-portfolio.netlify.app/)
-
+<h3>Statistical Data 📈</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="adam-pw"></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="adam-pw"></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
+<br>
+<p><a href="https://github.com/Adam-pw">Adam-pw</a></p>
